@@ -127,7 +127,7 @@ df['employment_status'].unique()
 
 ---
 
-## Phase 3: Department Column (Most Complex)
+## Phase 3: Department Column
 
 ### Issues Found
 
