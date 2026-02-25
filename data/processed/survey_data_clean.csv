@@ -1,0 +1,51 @@
+response_id,respondent_name,age,gender,department,employment_status,salary_range,satisfaction,recommend,feedback,survey_date
+R001,John Smith,34,Male,Sales,Full-time,50000-75000,Very Satisfied,Yes,Great place to work!,2024-01-15
+R002,Sarah Connor,28,Female,Marketing,Full-time,50000-75000,Very Satisfied,Yes,Love the team culture,2024-01-15
+R003,Mike Johnson,45,Male,Sales,Full-time,75000-100000,Satisfied,Yes,Good benefits package,2024-01-16
+R004,Emily Davis,31,Female,HR,Part-time,25000-50000,Neutral,Maybe,It's okay I guess,2024-01-16
+R005,Robert Brown,52,Male,IT,Full-time,100000+,Very Satisfied,Yes,Excellent growth opportunities,2024-01-17
+R006,Jessica Wilson,26,Female,Marketing,Full-time,25000-50000,Satisfied,Yes,Nice office space,2024-01-17
+R007,David Lee,38,Male,Sales,Contract,50000-75000,Dissatisfied,No,Poor management communication,2024-01-18
+R008,Amanda Martinez,29,Female,HR,Full-time,50000-75000,Very Satisfied,Yes,Amazing colleagues!,2024-01-18
+R009,Chris Taylor,41,Male,IT,Full-time,75000-100000,Neutral,Maybe,Could be better,2024-01-19
+R010,Lisa Anderson,47,Female,R&D,Full-time,100000+,Satisfied,Yes,Great research facilities,2024-01-19
+R011,Kevin White,33,Male,Marketing,Full-time,50000-75000,Very Satisfied,Yes,Good work-life balance,2024-01-20
+R012,Rachel Green,27,Female,Sales,Part-time,25000-50000,Satisfied,Yes,,2024-01-20
+R013,Thomas Harris,55,Male,IT,Contract,75000-100000,Very Dissatisfied,No,Outdated equipment,2024-01-21
+R014,Nancy Clark,36,Female,HR,Full-time,50000-75000,Satisfied,Yes,Supportive management,2024-01-21
+R015,Daniel Lewis,30,Male,R&D,Full-time,50000-75000,Neutral,Maybe,Average experience,2024-01-22
+R016,Olivia Walker,24,Female,Marketing,Intern,Under 25000,Satisfied,Yes,Learning a lot here,2024-01-22
+R017,James Hall,39,Male,Sales,Full-time,75000-100000,Very Satisfied,Yes,Excellent training programs,2024-01-23
+R018,Sophia Young,32,Female,IT,Part-time,25000-50000,Dissatisfied,No,Limited growth options,2024-01-23
+R019,William King,48,Male,R&D,Full-time,100000+,Very Satisfied,Yes,Top-notch facilities,2024-01-24
+R020,Emma Scott,25,Female,Marketing,Full-time,25000-50000,Satisfied,Yes,Great first job!,2024-01-24
+R021,Michael Brown,37,Male,Sales,Full-time,50000-75000,Neutral,,,2024-01-25
+R022,Ava Adams,29,Female,HR,Full-time,50000-75000,Satisfied,Yes,Good company culture,2024-01-25
+R023,Ethan Wright,44,Male,IT,Contract,75000-100000,Dissatisfied,No,Too much bureaucracy,2024-01-26
+R024,Mrs. Isabella Hill,35,Female,Sales,Full-time,50000-75000,Very Satisfied,Yes,Love my team!,2024-01-26
+R025,Alexander Campbell,31,Male,Marketing,Contract,50000-75000,Satisfied,Yes,Flexible hours,2024-01-27
+R026,Mia Mitchell,23,Female,Marketing,Intern,Under 25000,Very Satisfied,Yes,Great mentorship,2024-01-27
+R027,Benjamin Turner,42,Male,IT,Full-time,75000-100000,Neutral,Maybe,Decent workplace,2024-01-28
+R028,Charlotte Parker,28,Female,HR,Full-time,50000-75000,Satisfied,Yes,Helpful HR team,2024-01-28
+R029,Henry Collins,51,Male,R&D,Full-time,100000+,Very Satisfied,Yes,Innovative projects,2024-01-29
+R030,Amelia Stewart,26,Female,Sales,Part-time,25000-50000,Neutral,Maybe,Just okay,2024-01-29
+R031,Jack Morris,34,Male,IT,Full-time,50000-75000,Satisfied,Yes,Good tech stack,2024-01-30
+R032,Harper Reed,30,Female,Marketing,Full-time,50000-75000,Very Satisfied,Yes,Creative environment,2024-01-30
+R033,Sebastian Cook,46,Male,R&D,Full-time,100000+,Satisfied,Yes,Quality research work,2024-01-31
+R034,Ella Morgan,27,Female,HR,Full-time,50000-75000,Very Satisfied,Yes,Supportive team,2024-01-31
+R035,Lucas Bailey,40,Male,Sales,Contract,75000-100000,Dissatisfied,No,Commission structure unfair,2024-02-01
+R036,Aria Rivera,22,Female,Marketing,Intern,Under 25000,Satisfied,Yes,,2024-02-01
+R037,Mason Cox,36,Male,IT,Full-time,75000-100000,Neutral,Maybe,Room for improvement,2024-02-02
+R038,Chloe Howard,33,Female,HR,Full-time,50000-75000,Satisfied,Yes,Good policies,2024-02-02
+R039,Logan Ward,29,Male,R&D,Full-time,50000-75000,Very Satisfied,Yes,Exciting projects!,2024-02-03
+R040,Evelyn Torres,38,Female,Sales,Full-time,75000-100000,Satisfied,Yes,Competitive salary,2024-02-03
+R041,Aiden Peterson,25,Male,Marketing,Full-time,25000-50000,Satisfied,Yes,Nice office location,2024-02-04
+R042,Scarlett Gray,31,Female,IT,Part-time,25000-50000,Neutral,Maybe,Flexible but limited,2024-02-04
+R043,Jackson James,53,Male,R&D,Full-time,100000+,Very Satisfied,Yes,Academic freedom,2024-02-05
+R044,Penelope Watson,24,Female,HR,Full-time,25000-50000,Satisfied,Yes,Learning opportunity,2024-02-05
+R045,Matthew Brooks,35,Male,Sales,Full-time,50000-75000,Dissatisfied,No,High pressure environment,2024-02-06
+R046,Layla Kelly,27,Female,Marketing,Full-time,50000-75000,Very Satisfied,Yes,Creative freedom!,2024-02-06
+R047,Samuel Sanders,43,Male,IT,Contract,75000-100000,Neutral,Maybe,Contract uncertainty,2024-02-07
+R048,Zoe Price,30,Female,HR,Full-time,50000-75000,Satisfied,Yes,Fair treatment,2024-02-07
+R049,Joseph Bennett,49,Male,R&D,Full-time,100000+,Very Satisfied,Yes,Cutting-edge work,2024-02-08
+R050,Lily Wood,21,Female,Marketing,Intern,Under 25000,Very Satisfied,Yes,Amazing experience!,2024-02-08
