@@ -1,4 +1,4 @@
-# Data Cleaning Log - Chapter 2: Survey Response Cleaner
+# Data Cleaning Log - Survey Response Cleaner
 
 Detailed record of all data quality issues identified and decisions made during the cleaning process.
 
